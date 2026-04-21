@@ -1,1 +1,1 @@
-# java-bootstrap
+# javascript-bootstrap
